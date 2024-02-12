@@ -11,17 +11,22 @@
 #   It "emulates" Domoticz.Log() and Domoticz.Debug()
 #
 
+
 def Log(s):
     print(s)
+
 
 def Debug(s):
     print(s)
 
+
 def Error(s):
     print(s)
 
+
 def Devices(s):
     print(s)
+
 
 def Parameters(s):
     print(s)
